@@ -1,2 +1,4 @@
 hello this file is regarding git practice
 
+this is text written using command cat >> task1-2.txt
+making changes in new branch throw commandline
